@@ -1,0 +1,21 @@
+.Feed {
+    font-family: 'Roboto', sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 50vh;
+   
+  }
+
+.feed_section {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 250px;
+  width: 100%;
+  background-color: rgb(240, 249, 251);
+  color: #fff;
+  margin: 5px;
+  font-size: 4em;
+  }
+  
